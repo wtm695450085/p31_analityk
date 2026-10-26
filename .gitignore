@@ -1,0 +1,9 @@
+.env
+data/
+__pycache__/
+*.pyc
+n8n/out/
+*.db
+*.tar.gz
+app_kopia_*/
+n8n/*.json
